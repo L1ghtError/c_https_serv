@@ -1,0 +1,29 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/ihor/Documents/ihor.vashchyshyn/task_3_Simple_HTTP_server/bin",
+            "binaryPath": "/home/ihor/Documents/ihor.vashchyshyn/task_3_Simple_HTTP_server/bin/http_server",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/home/ihor/Documents/ihor.vashchyshyn/task_4_HTTPS_support/bin",
+            "binaryPath": "/home/ihor/Documents/ihor.vashchyshyn/task_4_HTTPS_support/bin/http_server",
+            "binaryArgs": []
+        }
+    ],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none",
+    "files.associations": {
+        "ctr_drbg.h": "c",
+        "net_sockets.h": "c",
+        "entropy.h": "c",
+        "debug.h": "c",
+        "networking.h": "c",
+        "tls_adapter.h": "c",
+        "ssl.h": "c",
+        "error.h": "c"
+    },
+    "cmake.configureOnOpen": true
+}
